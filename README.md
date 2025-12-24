@@ -8,7 +8,7 @@
 
 ---
 
-👋 Hello!
+👋 Hello There!
 
 I’m a senior **Full-Stack Software Engineer** skilled in building **web, mobile, and API applications**.
 I have worked on **innovative projects** including **AI-powered SaaS platforms**, **real-time chat applications**, and **multi-tenant systems**.
