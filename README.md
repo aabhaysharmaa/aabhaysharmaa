@@ -10,9 +10,9 @@
 
 👋 Hello There!
 
-I’m a senior **Full-Stack Software Engineer** skilled in building **web, mobile, and API applications**.
+I’m a senior **Full-Stack Software Engineer** skilled in building **web, and API applications**.
 I have worked on **innovative projects** including **AI-powered SaaS platforms**, **real-time chat applications**, and **multi-tenant systems**.
-I’m proficient in **React, Next.js, TypeScript, Node.js, Express, Prisma**, and databases like **PostgreSQL, MongoDB, Redis**.
+I’m proficient in **React, Next.js, TypeScript, Node.js, Express, Prisma**, and databases like **PostgreSQL, MySql, MongoDB, Redis**.
 Experienced in **cloud and DevOps** using **AWS, Docker, Kubernetes, Terraform, GitHub Actions**, and comfortable with **System Design** for scalable applications.
 
 I’m always eager to **take ownership of projects** and deliver **efficient, high-quality solutions**.
