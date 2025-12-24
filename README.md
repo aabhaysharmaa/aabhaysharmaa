@@ -1,49 +1,38 @@
 # Hi, I'm Abhay Sharma 👋
 
 
+![GitHub Header GIF](/image/code.gif)
 
 
-![Alt text]("https://github.com/user-attachments/assets/d74c66df-ab0b-4006-b263-d6b2ca23f9d8")
-
-
-
-
-💻 **Full-Stack Developer | SaaS Builder | TypeScript & Next.js Enthusiast**
-
-I build **modern SaaS applications** with features like:  
-- Real-time notifications to **Discord**  
-- **Stripe** payments & subscription systems  
-- Beautiful, responsive UIs with **shadcn-ui**  
-- Full authentication with **Clerk**  
-- Automation tools and production-ready dashboards  
-
-🎯 **Current Focus:**  
-Building **B2B SaaS platforms**, automation tools, and full-stack applications with **real-time integrations**.
-
-📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/abhaysharma)  
-- [Portfolio](https://abhaysharma.com)  
--[Portfolio Website]
----
-
-## **Highlighted Projects**
-
-| Project | Description | Advanced Features |
-|---------|-------------|-----------------|
-| **EventCord** | Real-time Discord event triggers for B2B apps | Multi-server support, event filtering, analytics dashboard |
-| **JStack SaaS** | Full-featured SaaS platform with payments & dashboards | Real-time Discord messages, user management, PRO plan subscriptions |
-| **PingPand** | Automation tool for notifications & events | Custom triggers, scheduling, multi-platform support |
-| **AI Mock Interview Platform** | AI-powered coding & system design interview tool | Multilingual support, automated scoring, real-time feedback |
-| **Next.js SaaS Starter** | Boilerplate for modern Next.js SaaS apps | Clerk auth, Stripe payments, shadcn-ui components |
-| **Discord Event Monitor** | Dashboard for monitoring and logging Discord events | Live updates, event history, notifications |
-| **EventFlow Automation** | Automation platform for SaaS notifications | Trigger workflows, webhook integrations, analytics |
-| **ProPlan Subscription Manager** | Stripe-based subscription manager | Secure payments, tiered plans, webhook sync |
-| **Custom SaaS Dashboard** | Highly customizable user dashboards | Drag & drop widgets, responsive layouts, analytics panels |
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-5A67D8?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-D24939?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/System%20Design-5A6ACF?style=for-the-badge&logo=buffer&logoColor=white" />
 
 ---
 
-💡 **Tip:** Each project is **production-ready** and demonstrates my ability to build **end-to-end SaaS solutions**.
+👋 Hello!
 
----
+I’m a senior **Full-Stack Software Engineer** skilled in building **web, mobile, and API applications**.
+I have worked on **innovative projects** including **AI-powered SaaS platforms**, **real-time chat applications**, and **multi-tenant systems**.
+I’m proficient in **React, Next.js, TypeScript, Node.js, Express, Prisma**, and databases like **PostgreSQL, MongoDB, Redis**.
+Experienced in **cloud and DevOps** using **AWS, Docker, Kubernetes, Terraform, GitHub Actions**, and comfortable with **System Design** for scalable applications.
 
-⭐ **Let's build something amazing together!**
+I’m always eager to **take ownership of projects** and deliver **efficient, high-quality solutions**.
+
+### 📫 Let’s Connect
+
+- Portfolio: [YourWebsite.com](#)
+- LinkedIn: [linkedin.com/in/aabhaysharmaa](#)
+- Email: **abhaysharma9667200@gmail.com**
