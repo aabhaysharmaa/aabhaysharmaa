@@ -1,8 +1,5 @@
 # Hi, I'm Abhay Sharma 👋
 
-
-![GitHub Header GIF](/image/code.gif)
-
 <p align="center">
   <img src="/image/code.gif" alt="GitHub Header GIF" />
 </p>
