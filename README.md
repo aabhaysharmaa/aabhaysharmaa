@@ -10,11 +10,13 @@
 
 👋 Hello There!
 
-I’m a senior **Full-Stack Software Engineer** skilled in building **web, and API applications**.
-I have worked on **innovative projects** including **AI-powered SaaS platforms**, **real-time chat applications**, **Streaming using RTMP / WHIP protocols** or **multi-tenant systems** and more.
-I’m proficient in **React, Next.js, TypeScript, Node.js, Express, Prisma**, and databases like **PostgreSQL, MySql, MongoDB, Redis**.
-Experienced in **cloud and DevOps** using **AWS, Docker, Kubernetes, Terraform, GitHub Actions**, and comfortable with **System Design** for scalable applications.
-** I Also followed the professional Git workflows—feature-based branching, semantic commit messages, and clean, review-friendly pull requests that maintain code quality and team velocity.**
+I’m a Full-Stack Software Engineer specializing in building high-performance web applications, real-time systems, and scalable backend architectures. I’ve built advanced platforms including AI-powered SaaS products, real-time chat applications, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
+
+My core expertise includes React, Next.js, TypeScript, Node.js, Express, Prisma, and databases such as PostgreSQL, MySQL, MongoDB, and Redis. I work end-to-end across the stack, from frontend UI/UX to backend APIs and distributed system architecture.
+
+I’m also experienced in Cloud & DevOps, using AWS, Docker, Kubernetes, Terraform, GitHub Actions, and strong CI/CD workflows. I care deeply about clean architecture, performance, developer experience, and production-grade reliability.
+
+I follow professional engineering practices—feature-based branching, semantic commits, clean pull requests, code reviews, and scalable system design principles that maintain team velocity and long-term code quality.
 
 ### 📫 Let’s Connect
 
