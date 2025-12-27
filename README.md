@@ -20,6 +20,6 @@ I follow professional engineering practices—feature-based branching, semantic 
 
 ### 📫 Let’s Connect
 
-- Portfolio: [https://portfolio-yf5t.vercel.app/](#)
+- Portfolio: [https://portfolio-yf5t.vercel.app](#)
 - LinkedIn: [linkedin.com/in/aabhaysharmaa](#)
 - Email: **abhaysharma9667200@gmail.com**
