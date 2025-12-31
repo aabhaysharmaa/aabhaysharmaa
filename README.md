@@ -10,7 +10,7 @@
 
 👋 Hello There!
 
-Full-Stack Software Engineer | DevOps Enthusiast | Cloud & Scalable Systems
+## Full-Stack Software Engineer | DevOps Enthusiast | Cloud & Scalable Systems
 
 I specialize in building high-performance web applications, real-time systems, and scalable backend architectures. My experience spans AI-powered SaaS platforms, real-time chat apps, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
 
