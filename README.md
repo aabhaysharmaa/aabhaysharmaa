@@ -10,14 +10,23 @@
 
 👋 Hello There!
 
-I’m a Full-Stack Software Engineer specializing in building high-performance web applications, real-time systems, and scalable backend architectures. I’ve built advanced platforms including AI-powered SaaS products, real-time chat applications, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
+Full-Stack Software Engineer | DevOps Enthusiast | Cloud & Scalable Systems
 
-My core expertise includes React, Next.js, TypeScript, Node.js, Express, Prisma, and databases such as PostgreSQL, MySQL, MongoDB, and Redis. I work end-to-end across the stack, from frontend UI/UX to backend APIs and distributed system architecture.
+I specialize in building high-performance web applications, real-time systems, and scalable backend architectures. My experience spans AI-powered SaaS platforms, real-time chat apps, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
 
-I’m also experienced in Cloud & DevOps, using AWS, Docker, Kubernetes, Terraform, GitHub Actions, and strong CI/CD workflows. I care deeply about clean architecture, performance, developer experience, and production-grade reliability.
+Tech Stack & Expertise:
 
-I follow professional engineering practices—feature-based branching, semantic commits, clean pull requests, code reviews, and scalable system design principles that maintain team velocity and long-term code quality.
+Frontend: React, Next.js, TypeScript
 
+Backend: Node.js, Express, Prisma
+
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD pipelines
+
+I thrive in end-to-end development, from designing intuitive frontend interfaces to architecting robust, distributed backend systems. I emphasize clean architecture, performance optimization, and production-grade reliability.
+
+I follow professional engineering practices—feature-based branching, semantic commits, clean pull requests, code reviews, and scalable system design—ensuring high team velocity and maintainable codebases.
 ### 📫 Let’s Connect
 
 - Portfolio: [[https://portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)]
