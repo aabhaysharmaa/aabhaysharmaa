@@ -10,23 +10,21 @@
 
 👋 Hello There!
 
-## Full-Stack Software Engineer | DevOps Enthusiast | Cloud & Scalable Systems
+## Full-Stack Software Engineer | Cloud & Scalable Systems
 
-I specialize in building high-performance web applications, real-time systems, and scalable backend architectures. My experience spans AI-powered SaaS platforms, real-time chat apps, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
+I specialize in building high-performance web applications, real-time systems, and scalable backend architectures. My experience includes AI-powered SaaS platforms, real-time chat apps, RTMP/WHIP streaming systems, and multi-tenant e-commerce solutions.
 
-Tech Stack & Expertise:
+Tech Stack & Expertise
 
 Frontend: React, Next.js, TypeScript
-
 Backend: Node.js, Express, Prisma
-
 Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & Infrastructure: AWS, Docker
+Other: GitHub Actions, CI/CD Pipelines, System Design
 
-Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD pipelines
+I thrive in end-to-end development—from crafting intuitive UIs to engineering robust, distributed backend systems. I focus heavily on clean architecture, performance, and production-grade reliability.
 
-I thrive in end-to-end development, from designing intuitive frontend interfaces to architecting robust, distributed backend systems. I emphasize clean architecture, performance optimization, and production-grade reliability.
-
-I follow professional engineering practices—feature-based branching, semantic commits, clean pull requests, code reviews, and scalable system design—ensuring high team velocity and maintainable codebases.
+I follow professional engineering practices: feature-based branching, semantic commits, clean PRs, code reviews, and scalable system design—ensuring maintainability and long-term velocit
 ### 📫 Let’s Connect
 
 - Portfolio: [[https://portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)]
