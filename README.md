@@ -27,6 +27,6 @@ I thrive in end-to-end development—from crafting intuitive UIs to engineering 
 I follow professional engineering practices: feature-based branching, semantic commits, clean PRs, code reviews, and scalable system design—ensuring maintainability and long-term velocit
 ### 📫 Let’s Connect
 
-- Portfolio: [[https://portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)]
+- Portfolio: [https://portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)
 - LinkedIn: [linkedin.com/in/aabhaysharmaa](#)
 - Email: **abhaysharma9667200@gmail.com**
