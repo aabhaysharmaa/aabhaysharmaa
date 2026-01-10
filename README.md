@@ -51,7 +51,7 @@ I write clean, maintainable code. I follow git workflows with feature branches a
 I'm always interested in challenging projects and collaboration opportunities.
 
 - **Portfolio:** [portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/aabhaysharmaa](https://linkedin.com/in/aabhaysharmaa)
+- **LinkedIn:** [linkedin.com/in/aabhaysharmaa](excalidrawz://entity?objectURI=x-coredata://C7C44F0D-9A54-4C3F-9AFB-2ABFE13D11F8/Group/p11)
 - **Email:** abhaysharma9667200@gmail.com
 
 ---
