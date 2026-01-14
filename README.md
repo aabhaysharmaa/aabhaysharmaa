@@ -1,5 +1,3 @@
-# Abhay Sharma
-
 <p align="center">
   <img src="/image/code.gif" alt="GitHub Header GIF" />
 </p>
@@ -16,44 +14,40 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+# Abhay Sharma
+**Full-Stack & System Engineer**
 
-## Mobile & Full-Stack Engineer
+I build production-ready web applications and backend systems that actually work at scale. My focus is on performance, clean architecture, and solving real problems—from the UI layer all the way down to the database.
 
-I build production-ready mobile and web applications with a focus on performance, scalability, and user experience. My work spans native mobile development, real-time systems, and cloud infrastructure—solving problems from the UI layer down to the database.
-
-### What I Do
-
-**Mobile Development**  
-I develop cross-platform mobile apps using React Native and Expo, focusing on smooth animations, offline-first architecture, and native integrations. I've built apps ranging from social platforms to fintech solutions, always prioritizing performance and UX.
+## What I Do
 
 **Full-Stack Engineering**  
-On the backend, I work with Node.js, Express, and Prisma to build APIs that scale. I design database schemas, implement caching strategies with Redis, and deploy services on AWS with Docker. Whether it's WebSockets for real-time features or GraphQL for flexible data fetching, I handle the complete stack.
+I design and build scalable web apps using React, Next.js, and TypeScript on the frontend, with Node.js, Express, and Prisma handling the backend. I care about clean APIs, efficient data models, and state management that doesn't make you want to tear your hair out.
+
+**Backend & APIs**  
+I build robust REST and GraphQL APIs, design normalized database schemas, and implement caching strategies with Redis. I've worked on auth systems, background jobs, real-time communication, and high-throughput services that handle real traffic.
 
 **System Architecture**  
-I think about systems holistically—multi-tenancy, horizontal scaling, CI/CD pipelines, and monitoring. I've architected solutions for RTMP streaming, real-time chat with WebRTC, and AI-powered SaaS platforms that serve thousands of concurrent users.
+I think in systems—multi-tenancy, horizontal scaling, CI/CD pipelines, observability, fault tolerance. I've architected real-time platforms, streaming systems, and AI-powered SaaS products designed to handle thousands of concurrent users without falling over.
 
-### Tech I Work With
+## Tech Stack
 
-- **Mobile:** React Native, Expo, React Navigation, Reanimated, Push Notifications
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS, shadcn/ui
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS, shadcn/ui, React Native, Expo
 - **Backend:** Node.js, Express, Prisma, REST & GraphQL APIs
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **DevOps:** Docker, AWS (EC2, S3, RDS), GitHub Actions, Terraform
-- **Tools:** Git, Linux, System Design, Load Balancing
+- **Engineering:** System Design, Load Balancing, Caching, Linux
 
-### How I Work
+## How I Work
 
-I write clean, maintainable code. I follow git workflows with feature branches and semantic commits. I review code carefully and document decisions. I believe good engineering is about solving the right problem, not just writing code—so I focus on understanding requirements, planning architecture, and shipping features that actually work in production.
+I write clean, maintainable code that other people can actually understand. I follow structured git workflows with feature branches and semantic commits. I value thoughtful architecture, clear communication, and shipping features that work in production—not just on localhost.
 
-### Let's Connect
+## Let's Connect
 
-I'm always interested in challenging projects and collaboration opportunities.
+I'm always up for challenging engineering problems and collaboration opportunities.
 
 - **Portfolio:** [portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/aabhaysharmaa](excalidrawz://entity?objectURI=x-coredata://C7C44F0D-9A54-4C3F-9AFB-2ABFE13D11F8/Group/p11)
+- **LinkedIn:** [linkedin.com/in/aabhaysharmaa](https://linkedin.com/in/aabhaysharmaa)
 - **Email:** abhaysharma9667200@gmail.com
 
----
-
-*Currently based in NOIDA, India. Open to remote opportunities.*
+Currently based in Noida, India. Open to remote opportunities.
