@@ -45,8 +45,6 @@ I write clean, maintainable code that other people can actually understand. I fo
 
 I'm always up for challenging engineering problems and collaboration opportunities.
 
-- **Portfolio:** [portfolio-yf5t.vercel.app](https://portfolio-yf5t.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/aabhaysharmaa](https://linkedin.com/in/aabhaysharmaa)
 - **Email:** abhaysharma9667200@gmail.com
 
 Currently based in Noida, India. Open to remote opportunities.
