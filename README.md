@@ -19,13 +19,11 @@
 I build production-ready web applications and backend systems that actually work at scale. My focus is on performance, clean architecture, and solving real problems—from the UI layer all the way down to the database.
 
 **SYSTEM DESIGN ENGINEER**
-- Designed & implemented 40+ distributed systems including 
+- Designed & implemented  distributed systems including 
   Twitter, Instagram, Uber, Netflix, and more
-- All designs fully coded in Java with documented 
-  architecture decisions
 - Specialties: Distributed databases, caching strategies, 
   message queues, load balancing
-- GitHub: [link] - 40+ working system implementations
+- GitHub: [link] -  working system implementations
 
 ## What I Do
 
