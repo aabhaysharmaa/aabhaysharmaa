@@ -58,37 +58,7 @@ Core focus areas:
 ### System Architecture
 I think in systems — multi-tenancy, microservices, CI/CD pipelines, observability, infrastructure automation, and resilience engineering. I build applications that are designed to scale, not just run locally.
 
----
 
-## Tech Stack
-
-### Frontend
-React, Next.js, TypeScript, TailwindCSS, shadcn/ui, React Native, Expo
-
-### Backend
-Node.js, Express, Java, REST APIs, GraphQL, Prisma
-
-### Databases
-PostgreSQL, MongoDB, Redis
-
-### DevOps & Cloud
-Docker, AWS (EC2, S3, RDS), GitHub Actions, Terraform
-
-### Engineering Focus
-System Design, Distributed Systems, Load Balancing, Caching Strategies, Linux, DSA & Algorithms
-
----
-
-## How I Work
-
-- Clean, modular, maintainable code  
-- Structured Git workflows with feature branches  
-- CI/CD-driven deployments  
-- Production-first mindset  
-- Performance-aware engineering decisions  
-
-I don’t just build apps.  
-I build systems that scale.
 
 ---
 
