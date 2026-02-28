@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -12,46 +15,87 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
 # Abhay Sharma
-**Full-Stack & System Engineer**
+### Full-Stack Engineer | System Design Engineer | DSA Practitioner
 
-I build production-ready web applications and backend systems that actually work at scale. My focus is on performance, clean architecture, and solving real problems—from the UI layer all the way down to the database.
+I build production-ready distributed systems and scalable SaaS applications. My engineering philosophy revolves around clean architecture, performance optimization, and solving real-world problems—from frontend interfaces to backend infrastructure and distributed databases.
 
-**SYSTEM DESIGN ENGINEER**
-- Designed & implemented  distributed systems including 
-  Twitter, Instagram, Uber, Netflix, and more
-- Specialties: Distributed databases, caching strategies, 
-  message queues, load balancing
-- GitHub: [link] -  working system implementations
+---
+
+## Experience
+
+- Worked with international remote teams collaborating through GitLab workflows  
+- Contributed in distributed development environments inspired by large-scale platforms like DoorDash  
+- Participated in async communication, pull request reviews, and sprint-based delivery cycles
+
+  
+## SYSTEM DESIGN ENGINEER
+
+- Designed and implemented distributed system architectures inspired by platforms like Twitter, Instagram, Uber, and Netflix  
+- Built scalable backend services with caching, load balancing, and fault tolerance  
+- Strong focus on distributed databases, rate limiting, message queues, and horizontal scaling  
+- Implemented real-world system design concepts with working codebases  
+
+---
 
 ## What I Do
 
-**Full-Stack Engineering**  
-I design and build scalable web apps using React, Next.js, and TypeScript on the frontend, with Node.js, Express, and Prisma handling the backend. I care about clean APIs, efficient data models, and state management that doesn't make you want to tear your hair out.
+### Full-Stack Engineering
+I build scalable applications using React, Next.js, and TypeScript on the frontend, with Node.js, Express, and Java-based services on the backend. I focus on clean API contracts, optimized queries, and maintainable state management.
 
-**Backend & APIs**  
-I build robust REST and GraphQL APIs, design normalized database schemas, and implement caching strategies with Redis. I've worked on auth systems, background jobs, real-time communication, and high-throughput services that handle real traffic.
+### Backend & APIs
+I design REST and GraphQL APIs, normalized database schemas, and implement caching with Redis. I work with authentication systems, background processing, real-time systems, and high-throughput backend services.
 
-**System Architecture**  
-I think in systems—multi-tenancy, horizontal scaling, CI/CD pipelines, observability, fault tolerance. I've architected real-time platforms, streaming systems, and AI-powered SaaS products designed to handle thousands of concurrent users without falling over.
+### Java & DSA
+I actively practice Data Structures and Algorithms using Java. I analyze time and space complexity, optimize solutions, and design efficient algorithms for scalable systems.
+
+Core focus areas:
+- Trees, Graphs, Dynamic Programming
+- System design-driven algorithm thinking
+- Complexity analysis (Big-O optimization)
+- Competitive-level problem solving
+
+### System Architecture
+I think in systems — multi-tenancy, microservices, CI/CD pipelines, observability, infrastructure automation, and resilience engineering. I build applications that are designed to scale, not just run locally.
+
+---
 
 ## Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS, shadcn/ui, React Native, Expo
-- **Backend:** Node.js, Express, Prisma, REST & GraphQL APIs
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **DevOps:** Docker, AWS (EC2, S3, RDS), GitHub Actions, Terraform
-- **Engineering:** System Design, Load Balancing, Caching, Linux
+### Frontend
+React, Next.js, TypeScript, TailwindCSS, shadcn/ui, React Native, Expo
+
+### Backend
+Node.js, Express, Java, REST APIs, GraphQL, Prisma
+
+### Databases
+PostgreSQL, MongoDB, Redis
+
+### DevOps & Cloud
+Docker, AWS (EC2, S3, RDS), GitHub Actions, Terraform
+
+### Engineering Focus
+System Design, Distributed Systems, Load Balancing, Caching Strategies, Linux, DSA & Algorithms
+
+---
 
 ## How I Work
 
-I write clean, maintainable code that other people can actually understand. I follow structured git workflows with feature branches and semantic commits. I value thoughtful architecture, clear communication, and shipping features that work in production—not just on localhost.
+- Clean, modular, maintainable code  
+- Structured Git workflows with feature branches  
+- CI/CD-driven deployments  
+- Production-first mindset  
+- Performance-aware engineering decisions  
+
+I don’t just build apps.  
+I build systems that scale.
+
+---
 
 ## Let's Connect
 
-I'm always up for challenging engineering problems and collaboration opportunities.
+I’m open to challenging engineering roles, distributed systems work, and remote opportunities.
 
-- **Email:** abhaysharma9667200@gmail.com
-
-Currently based in Noida, India. Open to remote opportunities.
+📧 Email: abhaysharma9667200@gmail.com  
+📍 Based in Noida, India  
+🌍 Open to remote roles
