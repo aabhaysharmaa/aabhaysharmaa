@@ -49,11 +49,6 @@ I design REST and GraphQL APIs, normalized database schemas, and implement cachi
 ### Java & DSA
 I actively practice Data Structures and Algorithms using Java. I analyze time and space complexity, optimize solutions, and design efficient algorithms for scalable systems.
 
-Core focus areas:
-- Trees, Graphs, Dynamic Programming
-- System design-driven algorithm thinking
-- Complexity analysis (Big-O optimization)
-- Competitive-level problem solving
 
 ### System Architecture
 I think in systems — multi-tenancy, microservices, CI/CD pipelines, observability, infrastructure automation, and resilience engineering. I build applications that are designed to scale, not just run locally.
