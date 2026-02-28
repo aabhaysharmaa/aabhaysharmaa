@@ -62,5 +62,6 @@ I think in systems — multi-tenancy, microservices, CI/CD pipelines, observabil
 I’m open to challenging engineering roles, distributed systems work, and remote opportunities.
 
 📧 Email: abhaysharma9667200@gmail.com  
+💻 Portfolio : https://portfolio-g2lwqzjcr-abhay-sharmas-projects-04fa0be1.vercel.app
 📍 Based in Noida, India  
 🌍 Open to remote roles
